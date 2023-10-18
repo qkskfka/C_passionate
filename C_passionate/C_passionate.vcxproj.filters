@@ -18,7 +18,7 @@
     <ClCompile Include="01_HelloWorld.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Varicable.c">
+    <ClCompile Include="02_Varicable.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
